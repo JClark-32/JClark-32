@@ -43,9 +43,22 @@ My Contribution:
 
 * [Cipher-Game](https://github.com/JClark-32/Cipher-Game)
   * Game to teach about a few cipher algorithms and how to decode them
+  * *HTML, Twine*
 * [Story-Maker](https://github.com/JClark-32/Story_Maker)
   * A small game where a dice is rolled that creates a story
-
+  * *HTML, Twine*
+* [Dirt Racing Arcade](https://github.com/JClark-32/CS315-FinalProject)
+  * A 3D dirt oval racing game made in godot
+  * *Godot, GdScript*
+* [Damage the Crown](https://github.com/JClark-32/CS315-Exercise-1)
+  * Simple 2D, angry birds like game
+  * *Godot, GdScript*
+* [Steal the Breifcase](https://github.com/JClark-32/CS315-Exercise-2)
+  * Small 2D, Speedrun platformer
+  * *Godot, GdScript*
+* [Damage the Crown 3D](https://github.com/JClark-32/CS315-Exercise-3)
+  * 3D version of Damage the Crown
+  * *Godot, GdScript* 
 ### 
 <!--
 **JClark-32/JClark-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
