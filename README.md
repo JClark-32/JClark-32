@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a computer science graduate from Ball State University who has been interested in computers from a young age
+I am a computer science graduate from Ball State University who has been interested in computers from a young age.
 <br>
 <br>
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-clark-63a71321b/)
@@ -21,7 +21,7 @@ Live to Rock is a senior capstone project where a team and I created wordpress p
 
 My Contribution: 
 * Created a blog system including sql integration and a like/comment system.
-* Created a podcast system that automatically adds videos from a Youtube playlist, including a page system if there is enough videos
+* Created a podcast system that automatically adds videos from a Youtube playlist, including a page system if there is enough videos.
 * Assisted in bugfixing and functionality of other plugins
 
 ### Site
