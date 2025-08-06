@@ -38,6 +38,27 @@ My Contribution:
   * *WPF, C#, XAML*
  
 ## School Projects
+(Non-Exhaustive)
+* [Multi-Threaded-File-Service](https://github.com/JClark-32/Multi-Threaded-File-Service)
+  * A demonstration of a file service that utilized multiple threads
+  * *Java*
+* [Simulated-Netowrk-Infrastructure](https://github.com/ElaineUlsh/CS416_Project1)
+  * A simulated networf infrastructure including routers, switches, and hosts. Functionally acts as a simple messaging service
+  * *Java*
+* [Quaternary-Calculator](https://github.com/kristhurman12/quaternary-calculator)
+  * A calculator that works in base-4, complete with ui
+  * Contribution - UI and integration
+  * *Java*
+* [Sliding-Tile-Puzzle-Solver](https://github.com/JClark-32/Sliding-Tile-Puzzle)
+  * A demonstraition of various search algorithms, including bfs, dfs, and gbfs
+  * *Java*
+* [Airline-Booker-SQL](https://github.com/JClark-32/SQL-Airline-Bookings)
+  * A program the integrates msql with java to form a simple airline booking service
+  * *Java, MySqL*
+* [Python-CSV-DB-Converter](https://github.com/JClark-32/Python-DB-CSV-Converter)
+  * One of my earliest project, can convert .csv documents into .db documents
+  * *Python*
+
 
 ### Games
 
@@ -59,7 +80,6 @@ My Contribution:
 * [Damage the Crown 3D](https://github.com/JClark-32/CS315-Exercise-3)
   * 3D version of Damage the Crown
   * *Godot, GdScript* 
-### 
 <!--
 **JClark-32/JClark-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
